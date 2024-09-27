@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ddemon26
+- 👋 Hi, I’m @Ddemon26 Co founder of Tent City Studios.
 - 👀 I’m interested in ... small team dev, (indie Games, Software projects)
 - 🌱 I’m currently learning ... C# 
 - 💞️ I’m looking to collaborate on any project with anyone.
