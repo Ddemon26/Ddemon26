@@ -6,14 +6,16 @@
 Co‑Founder, Tent City Studios • Software & Game Developer
 I build focused Unity (C#) tooling and small indie prototypes, occasionally dipping into C / C++ / Zig to sharpen systems insight. My priority is shortening iteration loops and removing structural friction for small teams.
 
+<details><summary><strong>Information</strong> (click to expand)</summary>
+
 ### Focus
 Tooling • Deterministic/editor utilities • Lightweight Discord automation • Codebase clarity & maintainability.
 
 ### Selected Work
-* **Unity Utilities:** Extension primitives reducing boilerplate.
-* **Physics Dropper:** Edit‑time gravity placement for rapid scene layout.
-* **HoboBot:** Modular Discord automation (roles, gating, scheduling).
-* **2006Scape Fork:** Study of legacy MMO server architecture.
+- **Unity Utilities:** Extension primitives reducing boilerplate.
+- **Physics Dropper:** Edit‑time gravity placement for rapid scene layout.
+- **HoboBot:** Modular Discord automation (roles, gating, scheduling).
+- **2006Scape Fork:** Study of legacy MMO server architecture.
 
 ### Stack
 **Primary:** C#, Unity.  **Also:** C, C++, Zig, Python, Bash, Git, Linux.
@@ -26,6 +28,9 @@ Open to well‑scoped gameplay systems, editor tooling, or refactor projects wit
 
 ### Contact
 Discord: `Ddemon26`
+
+</details>
+
 
 ### Stats & Activity
 <div align="center">
