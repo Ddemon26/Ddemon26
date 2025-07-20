@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,csharp,unity,zig,java,python,bash,git,linux" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,unity,java,python,bash,git" alt="Languages and Tools" />
 </div>
 
 # Ddemon26
 Co‑Founder, Tent City Studios • Software & Game Developer
-I build focused Unity (C#) tooling and small indie prototypes, occasionally dipping into C / C++ / Zig to sharpen systems insight. My priority is shortening iteration loops and removing structural friction for small teams.
+I build focused Unity (C#) tooling and small indie prototypes, occasionally dipping into C / C++ / dr to sharpen systems insight. My priority is shortening iteration loops and removing structural friction for small teams.
 
 <details><summary><strong>Information</strong> (click to expand)</summary>
 
@@ -18,7 +18,7 @@ Tooling • Deterministic/editor utilities • Lightweight Discord automation �
 - **2006Scape Fork:** Study of legacy MMO server architecture.
 
 ### Stack
-**Primary:** C#, Unity.  **Also:** C, C++, Zig, Python, Bash, Git, Linux.
+**Primary:** C#, dotnet and Unity.  **Also:** C, C++, Python, Bash, Git.
 
 ### Principles
 Ship minimal increments • Align code with engine/hardware realities • Keep dependencies lean • Optimize for next‑reader clarity • Automate repetition early.
