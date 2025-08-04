@@ -1,3 +1,5 @@
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,unity,java,python,bash,git" alt="Languages and Tools" />
 </div>
@@ -41,3 +43,4 @@ Discord: `Ddemon26`
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddemon26&layout=compact&theme=transparent&hide_border=true&border_radius=12" width="48%" />
   </a>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
