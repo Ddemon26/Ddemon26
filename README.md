@@ -1,4 +1,4 @@
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,unity,java,python,bash,git" alt="Languages and Tools" />
@@ -30,6 +30,8 @@ Open to well‑scoped gameplay systems, editor tooling, or refactor projects wit
 
 ### Contact
 Discord: `Ddemon26`
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ddemon26&label=Profile%20views&color=0e75b6&style=flat" alt="Ddemon26" />
 
 </details>
 
