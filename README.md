@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=006aff&amp;height=120&amp;section=header">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,unity,java,python,bash,git,linux,ubuntu" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,bash,git,html,css,java,python,linux,ubuntu" alt="Languages and Tools" />
 </div>
 
 # Ddemon26
