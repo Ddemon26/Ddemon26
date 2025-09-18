@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bots,md,java,gradle,maven,python,docker,linux,ubuntu" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,md,java,gradle,maven,python,docker,linux,ubuntu" alt="Languages and Tools" />
 </div>
 
 # Ddemon26
